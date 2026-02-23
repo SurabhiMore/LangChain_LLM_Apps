@@ -1,6 +1,6 @@
 # LangChain for LLM Application Development
 
-This repository contains my notes, exercises, and sample projects from the **[LangChain for LLM Application Development](https://www.coursera.org/learn/langchain-llm-application-development)** course by Harrison Chase and Andrew Ng on Coursera.
+This repository contains my notes, exercises, and sample projects from the **[LangChain for LLM Application Development](https://www.coursera.org/projects/langchain-for-llm-application-development-project)** course by Harrison Chase and Andrew Ng on Coursera.
 
 ---
 
